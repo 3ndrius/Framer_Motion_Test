@@ -1,0 +1,8 @@
+# Framer motion animation example
+
+
+# [demo]()
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
